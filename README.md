@@ -8,11 +8,10 @@ I am a passionate tech enthusiast with a keen interest in exploring various tech
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, JavaScript, React
+- Programming Languages: Python, JavaScript, C++, C#
+- Web Development: HTML, CSS, JavaScript
 - Database Management: SQL, MongoDB
 - Version Control: Git, GitHub
-- *(You can add more skills as needed)*
 
 I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies.
 
